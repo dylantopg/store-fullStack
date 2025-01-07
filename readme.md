@@ -23,6 +23,7 @@ express, typescript, zod, react, pnpm
 ## Agradecimientos
 
 Midudev por proporcionar el reto de la prueba tenica
+Gentleman programming por explicar arquitectura de software
 
 
 ## Autor ✒️
