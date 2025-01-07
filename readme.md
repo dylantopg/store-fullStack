@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Tienda Online Fake Full Stack
 
 Esta aplicación se compone de tres componentes principales:
 
